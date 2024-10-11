@@ -4,7 +4,7 @@
   "description": "Blake2b (64-bit version) in pure Javascript",
   "main": "index.js",
   "dependencies": {
-    "blake2b-wasm": "^2.4.0",
+    "blake2b-wasm": "github:TheComputerGenie/blake2b-wasm",
     "nanoassert": "^2.0.0"
   },
   "devDependencies": {
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilbayes/blake2b.git"
+    "url": "https://github.com/TheComputerGenie/blake2b.git"
   },
   "keywords": [],
   "author": "Emil Bay <github@tixz.dk>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilbayes/blake2b/issues"
+    "url": "https://github.com/TheComputerGenie/blake2b/issues"
   },
-  "homepage": "https://github.com/emilbayes/blake2b#readme"
+  "homepage": "https://github.com/TheComputerGenie/blake2b#readme"
 }
